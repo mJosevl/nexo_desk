@@ -1,0 +1,2 @@
+# Capacidad 1: solo biblioteca estándar de Python, sin dependencias.
+# Capacidad 3 agregará: google-genai, python-dotenv
